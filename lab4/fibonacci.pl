@@ -18,3 +18,4 @@ fib(X, Y) :-
     fib(X1, F1),
     fib(X2, F2),
     Y is F1 + F2.
+
